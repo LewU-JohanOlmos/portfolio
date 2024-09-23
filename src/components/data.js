@@ -18,7 +18,7 @@ export const ProjectsData = [
     {
         id: 3,
         title: "Dice Game",
-        description: "A web app that allows you to play throwing dices. If you get a greater result, you win",
+        description: "A web app that allows you to play throwing dice. If you get a greater result, you win",
         image: "/images/dice-game.png",
         alt: "Dice Game",
         url: "https://happy-beach-010831010.5.azurestaticapps.net/"

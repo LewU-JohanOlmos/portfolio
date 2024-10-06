@@ -23,4 +23,12 @@ export const ProjectsData = [
         alt: "Dice Game",
         url: "https://happy-beach-010831010.5.azurestaticapps.net/"
     },
+    {
+        id: 4,
+        title: "Rocky vs Drago",
+        description: "An implementation of Node.js and Express to recreate my last Dice Roller game",
+        image: "/images/dice-game.png",
+        alt: "Dice Game",
+        url: "https://white-pebble-035a68510.5.azurestaticapps.net/"
+    },
 ]
